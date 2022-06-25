@@ -7,4 +7,3 @@ Task5. Execute
 Task6. Multiple permissions
 Task7. Everybody
 Task8. James Bond
-Task9. John Doe
