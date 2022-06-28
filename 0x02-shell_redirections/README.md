@@ -1,3 +1,3 @@
 Hello world
-confused smiley
-Task2. Lets display a file
+Confused smiley
+Lets display a file
