@@ -1,9 +1,7 @@
-15. Count that word
-16. Whats next?
-16. Whats next?
-17. I hate bins
-18. Letters only please
-19. A to Z
-20. Without C, you would live in hiago
-21. esreveR
-22. DJ Cut Killer
+0-hello_world
+1-confused_smiley
+2-hellofile
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
