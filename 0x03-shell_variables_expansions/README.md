@@ -8,3 +8,4 @@ The path to success is to take massive, determined action
 Create a script that creates a new global variable
 8.True Knowledge
 9. Divide and rule
+10. Love is anterior to life
