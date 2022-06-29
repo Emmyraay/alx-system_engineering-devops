@@ -10,3 +10,4 @@ Create a script that creates a new global variable
 9. Divide and rule
 10. Love is anterior to life
 11. There are 10 types of people in the world
+11. There are 10 types of people in the world
