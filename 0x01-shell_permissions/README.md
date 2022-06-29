@@ -13,3 +13,4 @@ Task11. Directories permission
 more directories
 Task13. change group
 4. Last lines of a file
+6-third_line
