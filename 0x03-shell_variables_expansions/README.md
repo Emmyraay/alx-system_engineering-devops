@@ -6,3 +6,4 @@ The path to success is to take massive, determined action
 5. Local variables
 6. Local variable
 Create a script that creates a new global variable
+8.True Knowledge
