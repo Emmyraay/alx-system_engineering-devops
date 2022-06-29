@@ -3,3 +3,4 @@
 2. Lets display a file
 3. What about 2?
 4. Last lines of a file
+I would prefer the first ones actually
