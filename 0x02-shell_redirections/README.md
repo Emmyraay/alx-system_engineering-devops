@@ -9,3 +9,4 @@ I would prefer the first ones actually
 8-cwd_state
 9-duplicate_last_line
 11-directories
+12. What’s new
