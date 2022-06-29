@@ -14,3 +14,4 @@ more directories
 Task13. change group
 4. Last lines of a file
 6-third_line
+10-no_more_js
