@@ -16,3 +16,4 @@ Create a script that creates a new global variable
 13. Floats
 14. Decimal to Hexadecimal
 14. Decimal to Hexadecimal
+15. Everyone is a proponent of strong encryption
