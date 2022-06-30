@@ -15,3 +15,4 @@ Create a script that creates a new global variable
 12-combinations
 13. Floats
 14. Decimal to Hexadecimal
+14. Decimal to Hexadecimal
