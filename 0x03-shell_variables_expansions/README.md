@@ -13,3 +13,4 @@ Create a script that creates a new global variable
 11. There are 10 types of people in the world
 13. Floats
 12-combinations
+13. Floats
