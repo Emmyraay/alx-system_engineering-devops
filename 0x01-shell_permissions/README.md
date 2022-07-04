@@ -16,3 +16,4 @@ Task13. change group
 6-third_line
 10-no_more_js
 script that changes the owner to vincent and the group owner to staff for all the files
+script that changes the owner and the group owner of _hello to vincent and staff respectively.
